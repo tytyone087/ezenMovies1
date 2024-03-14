@@ -1,0 +1,40 @@
+.upMovieWrap {
+  position: relative;
+  width: 100%;
+  height: 90vh;
+}
+
+.upMovieWrap .upMovie .upBackImg {
+  width: 100%;
+  height: 90vh;
+}
+
+.upMovieWrap .upMovie .upBackImg img {
+  width: 100%;
+  height: 100%;
+}
+
+.upMovieWrap .upMovie .upInfo img {
+  position: absolute;
+  bottom: -30px;
+  left: 80px;
+  box-shadow: 0 0 10px #000;
+}
+
+.upMovieWrap .upMovie .upInfoText {
+  position: absolute;
+  bottom: 70px;
+  left: 400px;
+}
+
+.upMovieWrap .upMovie .upInfoText .upTitle {
+  font-size: 30px;
+  color: #fff;
+  text-shadow: 2px 2px 0 #000;
+}
+
+.upMovieWrap .upMovie .upInfoText .upRelease {
+  font-size: 14px;
+  color: #fff;
+  text-shadow: 2px 2px 0 #000;
+}
